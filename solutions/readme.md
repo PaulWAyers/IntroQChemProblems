@@ -1,0 +1,2 @@
+# Solutions
+Solutions to exercises/problems will be posted here after the due date is past. Instructors wishing to have access to the (raw) `nbgrader` files can contact Paul Ayers by e-mail from their institutional account.
