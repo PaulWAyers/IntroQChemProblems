@@ -1,2 +1,2 @@
 # Solutions
-Solutions to exercises/problems will be posted here after the due date is past. Instructors wishing to have access to the (raw) `nbgrader` files can contact Paul Ayers by e-mail from their institutional account.
+Solutions for the Intro to Quantum Chemistry Course (CHEM 3PA3) are posted here. Note that these are solutions for students; these are not solutions for autograding assignments.
