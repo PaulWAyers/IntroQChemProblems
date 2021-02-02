@@ -5,7 +5,8 @@ This repository contains notebooks for notes, problems, and solutions for the In
 The main rationale for this repo was that students were having to clone the entire IntroQChem repository to get assignments and keys, which took a lot of (unnecessary) disk space. This approach is more effective.
 
 ## Problems and Solutions
-- [Computing Course Marks](problems/syzygy.md) 
+- [Computing Course Marks](ipynb/grading.ipynb) 
+- [Introduction to Quantum](ipynb/IntroQM2021.ipynb)
 
 ## Other resources
 Keys to assignments are not always available. But where available, instructors can have the keys by e-mailing Paul Ayers, <ayers@mcmaster.ca>, from your official e-mail account. Where possible, `nbgrader` can be used to mark assignments. 
