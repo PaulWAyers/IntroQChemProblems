@@ -20,8 +20,7 @@ The main rationale for this repo was that students were having to clone the enti
 6. [1-electron atoms](ipynb/OneElectronAtoms.ipynb)
 7. Approximate Methods
 8. Many-electron systems
-9. 2-electron atoms
-10. Approximate Methods for Many-Electron Systems
+9.  Approximate Methods for Many-Electron Systems
 ## Other resources
 Keys to assignments are not always available. But where available, instructors can have the keys by e-mailing Paul Ayers, <ayers@mcmaster.ca>, from your official e-mail account. Where possible, `nbgrader` can be used to mark assignments.
 
