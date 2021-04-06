@@ -17,7 +17,7 @@ The main rationale for this repo was that students were having to clone the enti
 3. [The Particle in a Box](ipynb/ParticleIn1DBox.ipynb)
 4. [Particles confined in two and three dimensions](ipynb/ParticleInMultiD.ipynb)
 5. [The Postulates of Quantum Mechanics](ipynb/Postulates.ipynb)
-6. 1-electron atoms
+6. [1-electron atoms](ipynb/OneElectronAtoms.ipynb)
 7. Approximate Methods
 8. Many-electron systems
 9. 2-electron atoms
