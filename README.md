@@ -18,8 +18,8 @@ The main rationale for this repo was that students were having to clone the enti
 4. [Particles confined in two and three dimensions](ipynb/ParticleInMultiD.ipynb)
 5. [The Postulates of Quantum Mechanics](ipynb/Postulates.ipynb)
 6. [1-electron atoms](ipynb/OneElectronAtoms.ipynb)
-7. Approximate Methods
-8. Many-electron systems
+7. [Approximate Methods](ipynb/ApproximateMethods.ipynb)
+8. [Many-electron systems](ipynb/OneElectronAtoms.ipynb)
 9.  Approximate Methods for Many-Electron Systems
 ## Other resources
 Keys to assignments are not always available. But where available, instructors can have the keys by e-mailing Paul Ayers, <ayers@mcmaster.ca>, from your official e-mail account. Where possible, `nbgrader` can be used to mark assignments.
