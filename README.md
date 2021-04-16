@@ -10,6 +10,9 @@ The main rationale for this repo was that students were having to clone the enti
 ## Problems and Solutions
 - [Computing Course Marks](ipynb/grading.ipynb) 
 - [Introduction to Quantum](ipynb/IntroQM2021.ipynb); [key including extra problems](ipynb/IntroQMkey.ipynb)
+- [Final Exam Part 1](ipynb/Final Exam Part 1.ipynb)
+- [Final Exam Part 2](ipynb/Final Exam Part 2.ipynb)
+- [Final Exam Part 3](ipynb/Final Exam Part 3.ipynb)
 
 ## Notes
 1. [From Newton to Schrödinger](ipynb/History.ipynb)
