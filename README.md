@@ -10,9 +10,9 @@ The main rationale for this repo was that students were having to clone the enti
 ## Problems and Solutions
 - [Computing Course Marks](ipynb/grading.ipynb) 
 - [Introduction to Quantum](ipynb/IntroQM2021.ipynb); [key including extra problems](ipynb/IntroQMkey.ipynb)
-- [Final Exam Part 1](ipynb/Final Exam Part 1.ipynb)
-- [Final Exam Part 2](ipynb/Final Exam Part 2.ipynb)
-- [Final Exam Part 3](ipynb/Final Exam Part 3.ipynb)
+- [Final Exam Part 1](ipynb/Final%20Exam%20Part%201.ipynb)
+- [Final Exam Part 2](ipynb/Final%20Exam%20Part%202.ipynb)
+- [Final Exam Part 3](ipynb/Final%20Exam%20Part%203.ipynb)
 
 ## Notes
 1. [From Newton to Schrödinger](ipynb/History.ipynb)
@@ -22,7 +22,7 @@ The main rationale for this repo was that students were having to clone the enti
 5. [The Postulates of Quantum Mechanics](ipynb/Postulates.ipynb)
 6. [1-electron atoms](ipynb/OneElectronAtoms.ipynb)
 7. [Approximate Methods](ipynb/ApproximateMethods.ipynb)
-8. [Many-electron systems](ipynb/OneElectronAtoms.ipynb)
+8. [Many-electron systems](ipynb/ManyElSystems.ipynb)
 9.  Approximate Methods for Many-Electron Systems
 ## Other resources
 Keys to assignments are not always available. But where available, instructors can have the keys by e-mailing Paul Ayers, <ayers@mcmaster.ca>, from your official e-mail account. Where possible, `nbgrader` can be used to mark assignments.
