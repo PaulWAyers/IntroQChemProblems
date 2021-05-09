@@ -3,6 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PaulWAyers/IntroQChemProblems/HEAD)
 
 This repository contains notebooks for notes, problems, and solutions for the Introduction to Quantum Chemistry course, CHEM 3PA3.
+
 The notebooks in ipynb directory can be run via mybinder.org by clicking on the badge above.
 
 The main rationale for this repo was that students were having to clone the entire IntroQChem repository to get assignments and keys, which took a lot of (unnecessary) disk space. This approach is more effective.
